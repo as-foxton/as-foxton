@@ -1,6 +1,6 @@
-# Hi, I'm Alex Foxton 👋
+# Hi, I'm Alex Foxton
 
-## 🚀 DevOps Engineer | Azure | Automation | CI/CD
+## DevOps Engineer
 
 DevOps Engineer with 2+ years of experience building and maintaining CI/CD pipelines in Azure, automating workflows with PowerShell, and supporting production systems in regulated financial environments.
 
@@ -8,7 +8,7 @@ I focus on improving reliability, reducing manual processes, and delivering secu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Cloud & DevOps**
 Azure • Azure DevOps • CI/CD • Git • YAML • Docker
@@ -17,27 +17,27 @@ Azure • Azure DevOps • CI/CD • Git • YAML • Docker
 PowerShell • Python • Bash • TypeScript • Java • HTML
 
 **Testing & QA**
-Playwright • Pester • Test Automation • TDD
+Playwright • Pester • Test Automation
 
 **Monitoring & Operations**
-Splunk • ServiceNow • Incident Management • Root Cause Analysis
+Splunk • ServiceNow • Incident Management
 
 **Databases**
 SQL
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
-* ⚙️ Automated file-processing workflows using PowerShell, reducing manual intervention and production errors
-* 🔁 Designed and maintained CI/CD pipelines integrating cloud and on-prem infrastructure
-* 🧪 Built automated test suites (Pester & Playwright), significantly reducing manual QA effort
-* 🚨 Led incident response and coordinated resolutions across teams in production environments
-* 📊 Monitored systems with Splunk dashboards to proactively identify and resolve issues
+* Automated file-processing workflows using PowerShell, reducing manual intervention and production errors
+* Designed and maintained CI/CD pipelines integrating cloud and on-prem infrastructure
+* Built automated test suites (Pester & Playwright), significantly reducing manual QA effort
+* Led incident response and coordinated resolutions across teams in production environments
+* Monitored systems with Splunk dashboards to proactively identify and resolve issues
 
 ---
 
-## 🧩 Projects
+## Projects
 
 ### Internship Matching Platform
 
@@ -51,7 +51,7 @@ Full-stack web application connecting students with companies for internships.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 * AZ-900: Azure Fundamentals
 * ISTQB Foundation
@@ -59,7 +59,7 @@ Full-stack web application connecting students with companies for internships.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 English (Native)
 Dutch (Near Native)
@@ -69,19 +69,16 @@ French (Basic)
 
 ---
 
-## 🎯 Interests
+## Interests
 
 Scuba diving • Rock climbing • Surfing
 Rugby • Football • Music
 
 ---
 
-## 📫 Connect with Me
+## Connect
 
-* GitHub: [https://github.com/as-foxton](https://github.com/as-foxton)
 * LinkedIn: [http://www.linkedin.com/in/alex-foxton-0753a5199](http://www.linkedin.com/in/alex-foxton-0753a5199)
 * Email: [asfoxton97@gmail.com](mailto:asfoxton97@gmail.com)
 
 ---
-
-⭐️ *Always open to interesting opportunities in DevOps, cloud engineering, and security-focused roles.*
